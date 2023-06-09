@@ -1,0 +1,4 @@
+if total_value > 7:
+        print("You won!")
+    else:
+        print("You lost!")
